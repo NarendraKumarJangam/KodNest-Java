@@ -1,4 +1,4 @@
-package track.M05_T4;
+package track.OOPs.Inheritance;
 
 public class ThreadExample {
     public static void main(String[] args) {
