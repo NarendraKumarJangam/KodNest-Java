@@ -11,6 +11,8 @@ public class StudentApp {
         s2.display();
         System.out.println(s.equals(s1));
         System.out.println(s.equals(s2));
+        System.out.println(" ");
+        System.out.println(s);
 
     }
 
