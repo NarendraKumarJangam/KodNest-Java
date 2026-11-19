@@ -1,4 +1,4 @@
-package track.M05_T4;
+package track.ExceptionExample;
 
 import java.util.Scanner;
 
