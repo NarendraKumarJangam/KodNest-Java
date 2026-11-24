@@ -11,6 +11,6 @@ public class PrintChar extends Thread {
 
             }
         }
-        System.out.println("Printing char activity completed ....");
+        System.out.println("Printing char activity completed...");
     }
 }
